@@ -16,7 +16,7 @@ OSINT tool for analyzing Reddit user behavior and extracting intelligence from p
 ## Installation
 
 ```bash
-git clone [repository]
+git clone https://github.com/unnohwn/reddit-profiler.git
 cd reddit-profiler
 pip install -r requirements.txt
 ```
